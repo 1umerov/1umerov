@@ -1,5 +1,5 @@
 <details>
-  <summary>My language preference as of August 2021</summary>
+  <summary>My language preference as of January 2022</summary>
   
   * (**S**) Rust, Haskell
   * (**A**) Kotlin, Elixir, F#
