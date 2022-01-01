@@ -9,4 +9,4 @@
   * (**F**) Go
 </details>
 
-![language-tierlist-2021-08](https://user-images.githubusercontent.com/24978328/129856934-5d505a75-2e1c-46a3-abad-adee71ca408f.png)
+<img src="https://placewaifu.com/image/200">
