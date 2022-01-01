@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @xenmitsu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<details>
+  <summary>My language preference as of August 2021</summary>
+  
+  * (**S**) Rust, Haskell
+  * (**A**) Kotlin, Elixir, F#
+  * (**B**) Scala, Typescript, Dart, C#
+  * (**C**) Java, Ocaml, Python, Javascript, C++, Ruby
+  * (**D**) PHP, Coffeescript, Powershell, Lua, Clojure
+  * (**F**) Go
+</details>
 
-<!---
-xenmitsu/xenmitsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![language-tierlist-2021-08](https://user-images.githubusercontent.com/24978328/129856934-5d505a75-2e1c-46a3-abad-adee71ca408f.png)
