@@ -1,7 +1,7 @@
 <details>
   <summary>My language preference as of January 2022</summary>
   
-  * (**S**) Javascript, Typescript, JSX
+  * (**S**) Javascript, Typescript, JSX, Ruby
   * (**E**) Rust, Elixir, Python, R, Go, Vue
   * (**G**) C, Scala, C#, Java, C++, Angular, PostGresql
   * (**B**) Onion, Swift, Mongo, Terminal
