@@ -1,1 +1,1 @@
-<img src="https://github.com/Xedera/xedera/blob/main/golden-retriever-pijama.gif" width="600" height="500" />
+<img src="https://github.com/Xedera/xedera/blob/main/golden%20retriever.gif" width="400" height="350" />
