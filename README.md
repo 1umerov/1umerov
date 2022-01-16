@@ -1,1 +1,1 @@
-![Alt Text](https://tenor.com/view/golden-retriever-pijama-blue-yawing-yawning-gif-13767222.gif)
+![Alt Text](https://github.com/Xedera/xedera/blob/main/golden-retriever-pijama.gif)
