@@ -1,3 +1,4 @@
 ### ようこそ
 ### こんにちは、Xederaです
-### 僕のソーシャルメディアリンク
+### ソーシャルメディアリンク
+[Telegram](https://t.me/threatningzone) and [Instagram](https://www.instagram.com/xederrra)
