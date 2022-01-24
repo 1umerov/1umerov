@@ -1,3 +1,2 @@
-### ***こんにちは、Xederaです***
-### ***Where you can find me ↓***
-***[Telegram](https://t.me/threatningzone) and [Instagram](https://www.instagram.com/xederrra)***
+### こんにちは、Xederaです
+[Telegram](https://t.me/threatningzone) and [Instagram](https://www.instagram.com/xederrra)
