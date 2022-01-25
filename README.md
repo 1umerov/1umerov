@@ -1,2 +1,2 @@
-### こんにちは、Xederaです
-[Telegram](https://t.me/threatningzone) and [Instagram](https://www.instagram.com/xederrra)
+### Hi, I'm Xedera
+[Telegram](https://t.me/xederrra) and [Instagram](https://www.instagram.com/xederrra)
