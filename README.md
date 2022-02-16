@@ -1,4 +1,4 @@
-## Hi, I'm Umerov Javokhir, pseudonym Jeaow
+### Hi, I'm <em>Umerov Javokhir</em>.
 
 [Telegram](https://t.me/yaeow1) and [Instagram](https://www.instagram.com/1yaeow)
 
