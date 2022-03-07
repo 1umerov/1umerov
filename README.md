@@ -1,4 +1,4 @@
-### Hi, I'm <em>Umerov Javokhir</em>.
+### Hi, I'm `Umerov Javokhir`.
 
 [Telegram](https://t.me/xedera1) and [Instagram](https://www.instagram.com/1xedera)
 
