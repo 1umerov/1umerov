@@ -1,4 +1,11 @@
-## ***Hi, I'm `Umerov Javokhir`***.
+```c
+#include<stdio.h>  
+void main()
+{
+  printf("I'm Umerov Javokhir);    
+  getch(); 
+}
+```
 
 [Telegram](https://t.me/xedera1) and [Instagram](https://www.instagram.com/1xedera)
 
