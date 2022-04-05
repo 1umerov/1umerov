@@ -1,4 +1,5 @@
 #### Hi, I'm **Umerov Javokhir**
+#### For professional purposes, please contact via Telegram.
 
 [Telegram](https://t.me/xedera1) and [Instagram](https://www.instagram.com/1xedera)
 
