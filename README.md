@@ -1,3 +1,7 @@
-#### Hi, I'm **Xedera**
-<a href="https://smallcounter.com"><a href="https://smallcounter.com"><img src="https://smallcounter.com/count.php?c_style=1&id=1647581952" border=0 alt="web counter">
-</a><a href="https://smallcounter.com" style="font-size:9px;"></a>
+### Hi I'm Xedera 👋
+A lovely web developer based in UK, currently working on <br>
+[AI](https://github.com/AI/Xedera) at [Xedera Studio](https://github.com/XederaStudio).
+
+- Read more about my [Blog]()
+- Talk with me by [Email](mailto:maksklauss@hotmail.com) or [Telegram](https://t.me/xedera1)
+- Follow me on [Instagram](https://instagram.com/1xedera)
