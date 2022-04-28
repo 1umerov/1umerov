@@ -1,5 +1,5 @@
 ### Hi I'm Xedera 👋
-A lovely web developer based in UK, currently working on <br>
+A lovely web developer based in UZ, currently working on <br>
 [AI](https://github.com/AI/Xedera) at [Xedera Studio](https://github.com/XederaStudio).
 
 - Read more about my [Blog]()
