@@ -1,2 +1,2 @@
-### Hi I'm Xedera 👋
-#### Experienced Front-End Engineer working with web
+### Hi I'm Xedera 🙂
+### Text me via [TelegramTelegram
