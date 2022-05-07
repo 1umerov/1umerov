@@ -1,2 +1,2 @@
 #### ***Hi I'm Xedera*** 🙂
-#### ***Talk with me by [Telegram](https://t.me/xedera1)***
+#### ***Talk with me via [Telegram](https://t.me/xedera1)***
