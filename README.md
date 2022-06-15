@@ -1,3 +1,3 @@
 #### Hi I'm Xetera 🙂
-#### Let's get back to programming
+<img src="(https://github.com/[1umerov]/[1umerov]/blob/[main]/my-image.jpg?raw=true)">
 
